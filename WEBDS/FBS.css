@@ -1,0 +1,104 @@
+#Totalbackground
+{
+    background: #eeeeff;
+    width:100%;
+    height: 532px;
+}
+body
+{
+    margin: 0;
+}
+#FB
+{
+    width: 240px;
+    margin-left: 614px;
+    margin-top: 32px;
+    height: 96px;
+}
+#Loginmain
+{
+    background-color: #fff;
+    width: 405px;
+    height: 314px;
+    margin-left: 532px;
+    box-shadow: 0px 2px 5px 0px #d1d1d1, 0px 2px 10px rgb(193, 193, 193);
+    border-radius: 9px;
+    margin-top: -20px;
+}
+#log
+{
+    margin-left: 122px;
+    padding-top: 27px;
+    font-weight: 400;
+    font-size: 18px;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #191717;
+}
+#Email
+{
+    margin-left: 16px;
+    font-size: 16px;
+    height: 45px;
+    width: 339px;
+    border-radius: 5px;
+    padding-left: 20px;
+    border-color: #5858581c;
+    color: #2d2c2c;
+}
+#Password
+{
+    margin-left: 16px;
+    font-size: 16px;
+    height: 45px;
+    width: 339px;
+    border-radius: 5px;
+    padding-left: 20px;
+    border-color: #5858581c;
+    color: #2d2c2c;
+    margin-top: 7px;
+    font-weight: 555;
+    text-decoration: none;
+}   
+#Button
+{
+    margin-left: 16px;
+    height: 52px;
+    width: 365px;
+    margin-top: 7px;
+    color: #ffff;
+    font-family:Helvetica, Arial, sans-serif;
+    background-color: #166fe5;
+    border-radius: 11px;
+    font-size: 20px;
+}
+#FA
+{
+    text-decoration: none;
+    color: #1877f2;
+    font-size: 15px;
+    margin-left: 63px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+#SFB
+{
+    text-decoration: none;
+    color: #1877f2;
+    font-size: 15px;
+    margin-left: 7px;
+    font-family: Helvetica, Arial, sans-serif;
+}  
+.theend
+{
+    color: #8b8888;
+    font-size: 11px;
+    margin-left: 444px;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-top: 120px;
+}  
+#Plus
+{
+    border-radius: 5px;
+    width: 36px;
+    height: 21px;
+    box-shadow: 0px 1px 2px grey;
+}
